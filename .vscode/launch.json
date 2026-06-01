@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:BaiduOCR}",
+            "name": "Debug BaiduOCR",
+            "target": "BaiduOCR",
+            "configuration": "debug",
+            "preLaunchTask": "swift: Build Debug BaiduOCR"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:BaiduOCR}",
+            "name": "Release BaiduOCR",
+            "target": "BaiduOCR",
+            "configuration": "release",
+            "preLaunchTask": "swift: Build Release BaiduOCR"
+        }
+    ]
+}
