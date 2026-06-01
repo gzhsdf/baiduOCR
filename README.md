@@ -29,7 +29,7 @@ macOS 桌面端 OCR 工具，基于[百度智能云文字识别 API](https://clo
 
 ```bash
 # 克隆仓库
-git clone https://github.com/YOUR_USERNAME/BaiduOCR.git
+git clone https://github.com/gzhsdf/baiduOCR.git
 cd BaiduOCR
 
 # Debug 运行
